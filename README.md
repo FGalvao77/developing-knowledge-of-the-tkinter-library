@@ -1,1 +1,1 @@
-# developing-knowledge-of-the-tkinter-library
+# developing knowledge of the tkinter library
